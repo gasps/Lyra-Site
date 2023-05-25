@@ -1,3 +1,2 @@
-# Lyra Client
 
 Coming soon
